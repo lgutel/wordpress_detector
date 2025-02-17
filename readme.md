@@ -7,7 +7,7 @@ Un outil automatisé pour analyser les sites WordPress, permettant d'extraire de
 - **Énumération des utilisateurs** : Récupère la liste des utilisateurs enregistrés sur le site WordPress cible.
 - **Détection de la version de WordPress** : Identifie la version de WordPress utilisée par le site cible.
 - **Récupération de l'adresse IP** : Obtient l'adresse IP associée au nom de domaine du site cible.
-- **Génération de rapports** : Complète un document Word existant avec les informations collectées.
+- **Génération de rapports** : Complète un document Word ou excel existant avec les informations collectées.
 
 ## Prérequis
 
